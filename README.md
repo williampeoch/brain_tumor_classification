@@ -2,7 +2,12 @@
 This project is an implementation of an artificial intelligence model for classifying brain MRI images based on the presence of tumors. The model has been developed using PyTorch and trained on a dataset containing brain MRI images with tumor annotations.
 
 ## Dataset
+
+![Brain Tumor MRI Dataset](https://storage.googleapis.com/kaggle-datasets-images/1608934/2645886/44583c7826d1bdea68598f0eef8e6cfc/dataset-cover.jpg?t=2021-09-25-22-03-08)
+
 The dataset used in this project is the "Brain Tumor MRI Dataset," which is a combination of three different datasets: figshare, SARTAJ dataset, and Br35H. It comprises a total of 7023 human brain MRI images, categorized into four classes: glioma, meningioma, no tumor, and pituitary adenoma. It's important to note that the "no tumor" class images are sourced from the Br35H dataset.
+
+The dataset used in this project was obtained from Kaggle and is available at the following link: [Brain Tumor MRI Dataset on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
 ## About Brain Tumors
 A brain tumor is an abnormal collection or mass of cells within the brain. Given the rigid structure of the skull that encases the brain, any growth within this confined space can lead to significant issues. Brain tumors can be classified as either cancerous (malignant) or noncancerous (benign). As benign or malignant tumors grow, they can increase intracranial pressure, potentially causing brain damage and posing life-threatening risks.
