@@ -3,7 +3,7 @@ This project is an implementation of an artificial intelligence model for classi
 
 ## Dataset
 
-![Brain Tumor MRI Dataset](https://storage.googleapis.com/kaggle-datasets-images/1608934/2645886/44583c7826d1bdea68598f0eef8e6cfc/dataset-cover.jpg?t=2021-09-25-22-03-08)
+![Brain Tumor MRI Dataset](https://dailymedia.case.edu/wp-content/uploads/2016/09/22122633/mri-scan-feat-768x329.jpg)
 
 The dataset used in this project is the "Brain Tumor MRI Dataset," which is a combination of three different datasets: figshare, SARTAJ dataset, and Br35H. It comprises a total of 7023 human brain MRI images, categorized into four classes: glioma, meningioma, no tumor, and pituitary adenoma. It's important to note that the "no tumor" class images are sourced from the Br35H dataset.
 
